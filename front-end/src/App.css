@@ -1,0 +1,73 @@
+.links {
+    text-align: center;
+}
+body {
+    text-align: center;
+    background-color: #54784B;
+}
+header {
+    margin-top: -20px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+footer{
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 20px;
+    bottom: 0;
+}
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+#content-wrap {
+    padding-bottom: 5.5rem;    /* Footer height */
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+    
+}
+a {
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+}
+.logoName {
+    text-align: center;
+    padding: revert;
+    color: aliceblue;
+    text-shadow: 0 0 5px black;
+}
+.header {
+    background-color: #54784B;
+    padding-bottom: 10px;
+}
+.placeholder {
+    padding: 20px;
+    color:aliceblue
+}
+.loginBody {
+    padding: 20px;
+}
+.registerBody {
+    padding: 20px;
+}
+.logoutBody {
+    color:aliceblue
+}
+h1 {
+    color:aliceblue
+}
+label {
+    padding: 5px;
+    padding-bottom: 10px;
+}
